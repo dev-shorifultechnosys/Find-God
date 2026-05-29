@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#06152a"/><stop offset=".45" stop-color="#24344b"/><stop offset=".64" stop-color="#c5a25d"/><stop offset="1" stop-color="#f8f5ea"/></linearGradient>
+<radialGradient id="sun" cx="50%" cy="55%" r="38%"><stop stop-color="#fff2b1"/><stop offset=".16" stop-color="#d4ae5f"/><stop offset=".5" stop-color="#c5a25d" stop-opacity=".26"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="790" cy="500" r="210" fill="url(#sun)"/>
+<path d="M0 590 C200 520 345 560 500 500 C660 438 840 470 1002 412 C1240 326 1414 392 1600 330 V900 H0z" fill="#06152a" opacity=".76"/>
+<path d="M0 655 C200 600 380 620 560 566 C728 516 882 560 1060 510 C1300 444 1440 510 1600 468 V900 H0z" fill="#0B1F3A" opacity=".82"/>
+<path d="M0 746 C220 704 400 724 590 674 C790 622 975 646 1166 608 C1368 568 1480 612 1600 590 V900 H0z" fill="#03101f" opacity=".9"/>
+<path d="M0 356 C300 268 560 256 796 242 C1050 226 1290 238 1600 168" stroke="#fff" opacity=".12" filter="url(#blur)"/>
+</svg>

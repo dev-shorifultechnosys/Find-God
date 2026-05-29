@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2dc8d"/><stop offset=".5" stop-color="#c5a25d"/><stop offset="1" stop-color="#8a6427"/></linearGradient><linearGradient id="n" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1F3A"/><stop offset="1" stop-color="#06152a"/></linearGradient></defs>
+<rect width="1100" height="600" rx="38" fill="#fffdf8"/>
+<rect x="0" y="0" width="1100" height="84" fill="url(#n)"/><text x="550" y="55" text-anchor="middle" fill="#fff" font-family="Georgia, serif" font-size="36" letter-spacing="4">A SIMPLE PRAYER</text>
+<text x="80" y="145" fill="#0B1F3A" font-family="Arial, sans-serif" font-size="27" font-weight="700">1. Do you believe Jesus died for your sins and rose again?</text>
+<text x="80" y="202" fill="#0B1F3A" font-family="Arial, sans-serif" font-size="27" font-weight="700">2. Are you willing to trust Him as Savior?</text>
+<text x="80" y="259" fill="#0B1F3A" font-family="Arial, sans-serif" font-size="27" font-weight="700">3. Will you ask Him to forgive you and lead your life?</text>
+<rect x="78" y="300" width="944" height="185" rx="26" fill="#f8f5ea" stroke="#C5A25D" stroke-width="3"/>
+<text x="108" y="348" fill="#344154" font-family="Arial, sans-serif" font-size="24">Dear God, I have sinned against You. I ask forgiveness for all my sins.</text>
+<text x="108" y="387" fill="#344154" font-family="Arial, sans-serif" font-size="24">I believe Jesus died on the cross for my sins and rose again.</text>
+<text x="108" y="426" fill="#344154" font-family="Arial, sans-serif" font-size="24">I ask Jesus to come into my life and trust in Him alone. Amen.</text>
+<text x="550" y="545" text-anchor="middle" fill="#C5A25D" font-family="Arial, sans-serif" font-size="25" font-weight="700">NEXT: Pray daily. Read John. Worship with God’s people.</text>
+</svg>

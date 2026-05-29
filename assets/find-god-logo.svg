@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" role="img" aria-labelledby="title desc">
+<title id="title">FIND GOD Logo</title><desc id="desc">Gold cross, rays, navy wordmark, and Seek and You Will Find tagline.</desc>
+<defs>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f2d98b"/><stop offset="0.46" stop-color="#c5a25d"/><stop offset="1" stop-color="#8b6426"/>
+  </linearGradient>
+  <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0B1F3A"/><stop offset="1" stop-color="#06152a"/>
+  </linearGradient>
+</defs>
+<g fill="none" stroke="url(#gold)" stroke-linecap="round">
+  <path d="M210 114 C285 82 475 82 550 114" stroke-width="6"/>
+  <path d="M380 18 L380 103" stroke-width="9"/>
+  <path d="M350 52 L410 52" stroke-width="9"/>
+  <path d="M380 18 l-13 14 h26z" fill="url(#gold)" stroke="none"/>
+  <path d="M313 96 L268 42" stroke-width="2"/><path d="M334 90 L316 25" stroke-width="2"/><path d="M358 86 L351 16" stroke-width="2"/>
+  <path d="M402 86 L409 16" stroke-width="2"/><path d="M426 90 L444 25" stroke-width="2"/><path d="M447 96 L492 42" stroke-width="2"/>
+  <path d="M290 107 L228 76" stroke-width="2"/><path d="M470 107 L532 76" stroke-width="2"/>
+</g>
+<text x="380" y="178" text-anchor="middle" fill="url(#navy)" font-family="Playfair Display, Georgia, serif" font-size="82" letter-spacing="9">FIND GOD</text>
+<g fill="none" stroke="#C5A25D" stroke-width="2"><path d="M196 212 H304"/><path d="M456 212 H564"/></g>
+<text x="380" y="220" text-anchor="middle" fill="#C5A25D" font-family="Montserrat, Arial, sans-serif" font-size="22" letter-spacing="7">“SEEK AND YOU WILL FIND”</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2dc8d"/><stop offset=".5" stop-color="#c5a25d"/><stop offset="1" stop-color="#8a6427"/></linearGradient><linearGradient id="n" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1F3A"/><stop offset="1" stop-color="#06152a"/></linearGradient></defs>
+<rect width="1100" height="600" rx="38" fill="#fffdf8"/>
+<path d="M0 426 C215 500 415 530 690 474 C875 437 1004 440 1100 396 V600 H0z" fill="url(#n)"/>
+<path d="M0 456 C216 522 486 545 720 494 C917 451 1032 464 1100 434" fill="none" stroke="url(#g)" stroke-width="10"/>
+<g transform="translate(370 35) scale(.47)">
+<path d="M210 114 C285 82 475 82 550 114" fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round"/><path d="M380 18 L380 103" stroke="url(#g)" stroke-width="9"/><path d="M350 52 L410 52" stroke="url(#g)" stroke-width="9"/><path d="M380 18 l-13 14 h26z" fill="url(#g)"/>
+<g fill="none" stroke="url(#g)" stroke-linecap="round"><path d="M313 96 L268 42"/><path d="M334 90 L316 25"/><path d="M358 86 L351 16"/><path d="M402 86 L409 16"/><path d="M426 90 L444 25"/><path d="M447 96 L492 42"/></g>
+</g>
+<text x="550" y="185" text-anchor="middle" fill="#0B1F3A" font-family="Georgia, serif" font-size="70" letter-spacing="8">FIND GOD</text>
+<text x="550" y="232" text-anchor="middle" fill="#C5A25D" font-family="Arial, sans-serif" font-size="22" letter-spacing="5">SEEK AND YOU WILL FIND</text>
+<text x="550" y="315" text-anchor="middle" fill="#1f2a38" font-family="Arial, sans-serif" font-size="30" font-weight="700">You Are Loved By God</text>
+<text x="550" y="363" text-anchor="middle" fill="#344154" font-family="Arial, sans-serif" font-size="23">God loves you. Sin separates us from God.</text>
+<text x="550" y="398" text-anchor="middle" fill="#344154" font-family="Arial, sans-serif" font-size="23">Jesus died and rose again so you can receive forgiveness.</text>
+<text x="550" y="535" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Scan the QR code or visit the website to learn more</text>
+</svg>
